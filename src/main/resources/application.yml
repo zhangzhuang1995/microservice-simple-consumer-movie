@@ -1,0 +1,7 @@
+server:
+  port: 7901
+logging:
+  level: debug
+
+user:
+  servicePath: http://localhost:7900/simple/
